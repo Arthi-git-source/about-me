@@ -1,5 +1,5 @@
 Hi, I’m Arthi 👋
-A B.Tech student specializing in Artificial Intelligence & Data Science.
+B.Tech student specializing in Artificial Intelligence & Data Science.
 
 I have hands-on experience in data analysis, AWS Cloud, and web development, with a strong interest in building practical, real-world solutions.
 
